@@ -2,18 +2,22 @@
 ### `npm start`
 
 React application with receiving data using Axios.
-Using custom hooks, useMemo, useContext.
 Creating routing using React router, useHistory, useParams.
+Using custom hooks, useMemo, useContext.
+
+![image](https://user-images.githubusercontent.com/94392546/226587316-eaa3a4c2-b167-4965-9392-58b7fa72d8bb.png)
+
+Using different sorting for posts using input, parameters.
+![image](https://user-images.githubusercontent.com/94392546/226586707-019ebdf1-f020-45f8-9b56-163eee307fc6.png)
+
 Page conclusion. Pagination (pagination) created without the use of libraries, as well as developed "infinite" pagination.
+![image](https://user-images.githubusercontent.com/94392546/226586898-7868d62c-eb5e-4c60-9e8e-f3aeeb204ff9.png)
+
+
 A login simulation was also developed, and the user's routes were changed accordingly.
+![image](https://user-images.githubusercontent.com/94392546/226586953-fb8f1a0c-aae3-46be-aea0-cd90f6b8086d.png)
 
-![image](https://user-images.githubusercontent.com/94392546/226586011-5ab0b49a-1c8b-4344-9e43-89889b09b482.png)
+Adding your post using a modal window.
+![image](https://user-images.githubusercontent.com/94392546/226587263-e4b2e83d-6b12-43d9-b7d5-f02b77c4d580.png)
 
-![image](https://user-images.githubusercontent.com/94392546/226586088-06f114d2-88d9-4aad-bd88-cf7f740fe1fd.png)
-
-![image](https://user-images.githubusercontent.com/94392546/226586170-c14fbda4-ee14-4879-babe-2486880df3e2.png)
-
-![image](https://user-images.githubusercontent.com/94392546/226586232-8080db6b-3421-404c-a960-512c0d97a397.png)
-
-![image](https://user-images.githubusercontent.com/94392546/226586304-f5a01a69-8c99-440d-b989-f499707eee77.png)
 
