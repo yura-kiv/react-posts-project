@@ -1,0 +1,96 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+.App {
+  width: 80%;
+}
+
+.post {
+  display: flex;
+  padding: 15px;
+  border: 2px solid teal;
+  margin-top: 15px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.post-enter {
+  opacity: 0;
+  transform: translateX(-500px);
+}
+.post-enter-active {
+  transform: translateX(0px);
+  opacity: 1;
+  transition: all 500ms ease-in;
+}
+.post-exit {
+  opacity: 1;
+}
+.post-exit-active {
+  transform: translateX(-500px);
+  opacity: 0;
+  transition: all 500ms ease-in;
+}
+
+.pages__wrapper {
+  margin: 25px;
+  display: flex;
+  justify-content: center;
+}
+
+.pages__button {
+  padding: 10px;
+  color: teal;
+  background-color: white;
+  border: 1px solid grey;
+  margin: 5px;
+  transition: all 0.5s;
+}
+
+.pages__button:hover {
+  padding: 10px;
+  color: white;
+  background-color: rgb(165, 226, 226);
+  border: 1px solid grey;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.pages__button_active {
+  padding: 10px;
+  color: white;
+  font-weight: bold;
+  background-color: teal;
+  border: 1px solid grey;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.navBar {
+  position: relative;
+  height: 100px;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  padding: 0 15px;
+  background-color: teal;
+}
+
+.navBar__links {
+  margin-left: auto;
+}
+
+.post__btns {
+  display: flex;
+  flex-wrap: nowrap;
+}
