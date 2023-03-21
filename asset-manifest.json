@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/yura-kiv/react-posts-project/static/css/main.bda8050b.css",
-    "main.js": "/yura-kiv/react-posts-project/static/js/main.77d09ef1.js",
-    "index.html": "/yura-kiv/react-posts-project/index.html",
-    "main.bda8050b.css.map": "/yura-kiv/react-posts-project/static/css/main.bda8050b.css.map",
-    "main.77d09ef1.js.map": "/yura-kiv/react-posts-project/static/js/main.77d09ef1.js.map"
+    "main.css": "/react-posts-project/static/css/main.bda8050b.css",
+    "main.js": "/react-posts-project/static/js/main.77d09ef1.js",
+    "index.html": "/react-posts-project/index.html",
+    "main.bda8050b.css.map": "/react-posts-project/static/css/main.bda8050b.css.map",
+    "main.77d09ef1.js.map": "/react-posts-project/static/js/main.77d09ef1.js.map"
   },
   "entrypoints": [
     "static/css/main.bda8050b.css",
